@@ -3,7 +3,7 @@
 Online world clock flutter app
 
 <div>
-  <img src="https://github.com/arminmehraeen/World-Clock/blob/master/github/logo.png" width="100">
+  <img src="https://github.com/arminmehraeen/World-Clock/blob/master/github/logo.svg" width="100">
 </div>
 <div>
   <img src="https://github.com/arminmehraeen/World-Clock/blob/master/github/img1.png" width="250">
