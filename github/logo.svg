@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <g id="Group_5" data-name="Group 5" transform="translate(295 -1408)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="150" cy="150" r="150" transform="translate(-295 1408)"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(-538 -92)">
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(276 1533)" fill="none" stroke="#a20606" stroke-linecap="round" stroke-width="15">
+        <circle cx="118" cy="118" r="118" stroke="none"/>
+        <circle cx="118" cy="118" r="110.5" fill="none"/>
+      </g>
+      <line id="Line_1" data-name="Line 1" y2="223" transform="translate(394.5 1564.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_2" data-name="Line 2" x1="219" transform="translate(257.5 1651.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_3" data-name="Line 3" y2="273" transform="translate(511.925 1582.5) rotate(60)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_4" data-name="Line 4" y2="273" transform="translate(462 1532.5) rotate(30)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_5" data-name="Line 5" y2="273" transform="translate(275.5 1582.5) rotate(-60)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_6" data-name="Line 6" y2="273" transform="translate(325.5 1532.5) rotate(-30)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(296 1553)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5">
+        <circle cx="98" cy="98" r="98" stroke="none"/>
+        <circle cx="98" cy="98" r="95.5" fill="none"/>
+      </g>
+      <path id="Path_1" data-name="Path 1" d="M394.5,1511.695v139.78H529.352l-36.239-94.481Z" transform="translate(0)" stroke="#000" stroke-width="1"/>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(-379.5 73.5)">
+      <line id="Line_9" data-name="Line 9" x1="51" y2="38" transform="translate(182.5 1484.5)" fill="none" stroke="#a20606" stroke-linecap="round" stroke-width="3"/>
+      <g id="Group_4-2" data-name="Group 4" transform="translate(231.5 1426.5)">
+        <line id="Line_7" data-name="Line 7" y2="60" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+        <line id="Line_8" data-name="Line 8" y2="50" transform="translate(50 60) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+      </g>
+    </g>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="7" cy="7" r="7" transform="translate(-155 1553)" fill="#fff"/>
+  </g>
+</svg>
