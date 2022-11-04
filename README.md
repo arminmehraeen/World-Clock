@@ -1,6 +1,6 @@
 # world_clock
 
-Online world clock flutter app
+Online world clock flutter app with Bloc
 
 <div>
   <img src="https://github.com/arminmehraeen/World-Clock/blob/master/github/logo.svg" width="100">
