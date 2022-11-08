@@ -29,15 +29,5 @@ class MyApp extends StatelessWidget {
         home: const SplashScreen(),
       ),
     );
-
-
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'World Clock',
-      theme: ThemeData(
-        primarySwatch: Colors.red,
-      ),
-      home: const SplashScreen(),
-    );
   }
 }
